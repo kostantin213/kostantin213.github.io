@@ -68,15 +68,7 @@
 		<div id="news">
 			<h2 class="heading">Новости СПЭТ</h2>
 			<div style="clear: both"><br></div>
-			<?php
-			for ($i = 0; $i < 6; $i++)
-				echo '
-			<div class="article">
-				<img src=https://scotch.io/wp-content/uploads/2015/08/vuejs-cover.png alt="Test" title="Test">
-				<span>Lorem ipsum sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</span>
-			</div>
-			';
-			?>
+			
 			<a href="" title="Посмотреть больше статей">
 				<div id="btn">
 					Посмотреть больше
